@@ -1,8 +1,8 @@
 # Hey, I'm Baris 👋
 
-Software engineer focused on building reliable systems, cloud-native infrastructure, developer platforms, and occasionally neural networks.
+Building software, infrastructure and developer platforms.
 
-Most of my work revolves around Kubernetes, DevOps, automation, backend development, and platform engineering. When I'm not coding, I'm usually experimenting with self-hosted infrastructure, Linux, AI projects, or trying to understand how things work under the hood.
+I work across Kubernetes, DevOps, backend development, cloud-native systems, and AI projects.
 
 ## What I'm Interested In
 
