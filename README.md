@@ -1,106 +1,78 @@
 # Hey, I'm Baris 👋
 
-Building software, infrastructure and developer platforms.
+**DevOps Engineer** focused on Kubernetes, platform engineering, and self-hosted infrastructure.
 
-I work across Kubernetes, DevOps, backend development, cloud-native systems, and AI projects.
+I enjoy building systems that developers can rely on, from containerized applications and CI/CD workflows to observability tooling, AI experiments, and full-stack applications.
 
-## What I'm Interested In
+> I also use Arch, by the way.
 
-- ☸️ Kubernetes & Cloud Native
-- ⚙️ DevOps & Platform Engineering
-- 📊 Observability & Reliability
-- 🏗️ Software Architecture
-- 🤖 AI & Machine Learning
-- 🐧 Linux & Self-Hosting
+## Featured Work
 
----
+### ☸️ Platform Engineering & Infrastructure
 
-## Featured Projects
+#### [Homelab & Infrastructure](https://github.com/baris-batur/homeserver-config)
 
-### ☸️ Home Lab & Infrastructure
+Configuration and documentation for my self-hosted environment, including Kubernetes workloads and infrastructure automation.
 
-Building and operating self-hosted infrastructure with Kubernetes, containerized services, networking, automation, monitoring, and GitOps workflows.
-
-**Focus Areas**
-- Kubernetes
-- Infrastructure as Code
-- Automation
-- Observability
-- Linux Administration
-- Self-Hosting
+**Focus:** `Kubernetes` `Containers` `Linux` `Automation` `Self-Hosting`
 
 ---
 
-### 🚗 Diffusion Models
+### 🤖 AI & Machine Learning
 
-Deep learning project focused on training diffusion models capable of generating realistic vehicle imagery from noise.
+#### [Diffusion Model](https://github.com/CogitoNTNU/DiffusionModel)
 
-**Tech**
-`Python` `PyTorch` `Machine Learning` `Computer Vision`
+Collaborative deep learning project implementing an unconditional diffusion model that generates new vehicle images from noise.
 
----
+The project includes model experimentation, training notebooks, a user-facing application, containerized deployment, and CI workflows.
 
-### 🌐 NTNU Hackerspace Website
+**Tech:** `Python` `PyTorch` `Jupyter` `Computer Vision` `Docker`
 
-Contributing to the web platform used by the NTNU Hackerspace community.
+#### [Cogito X Infor](https://github.com/CogitoNTNU/CogitoXInfor-h24)
 
-**Tech**
-`TypeScript` `React` `Next.js`
+Machine learning project developed through a collaboration between Cogito and Infor, focused on applying Python-based data processing and ML techniques.
 
----
-
-### 📄 AI CV Screening Tool
-
-Experimenting with AI-assisted document analysis and candidate evaluation workflows.
-
-**Tech**
-`TypeScript` `AI` `Full Stack Development`
+**Tech:** `Python` `Machine Learning` `Data Processing`
 
 ---
 
-### 🎮 Hexa Battle
+### 🌐 Applications
 
-Strategy game inspired by Hex Empire, developed with a strong focus on software architecture and system design principles.
+#### [CV Screening Tool](https://github.com/ingvildsandven/cv-screening-tool)
 
-**Tech**
-`Kotlin` `Software Architecture`
+Full-stack candidate screening platform developed in collaboration with Trondheim Municipality.
 
----
+The application processes uploaded CVs, evaluates candidates against job descriptions using language models, and provides a dashboard for reviewing the results.
 
-### 🐧 Reproducible Linux Development Environment
+**Tech:** `React` `TypeScript` `Node.js` `PostgreSQL` `LLMs`
 
-Personal Arch Linux setup built around reproducibility, productivity, customization, and automation.
+#### [NTNU Hackerspace Website](https://github.com/hackerspace-ntnu/website-next)
 
-**Tech**
-`Arch Linux` `Hyprland` `Shell` `Git`
+Production web platform for the NTNU Hackerspace student organization, developed as part of a collaborative open-source project.
 
----
+**Tech:** `Next.js` `React` `TypeScript` `Docker`
 
-## Engineering Highlights
+#### [Hexa Battle](https://github.com/armanilknem/Hexa-battle)
 
-Some things I've worked on:
+Strategy game developed for an NTNU software architecture course, with an emphasis on maintainability and architectural design.
 
-- ☸️ Operating Kubernetes environments
-- 🏠 Building self-hosted infrastructure
-- 🤖 Training and experimenting with machine learning models
-- 🌐 Developing full-stack web applications
-- 📊 Monitoring, logging, and observability solutions
-- ⚙️ CI/CD and automation workflows
-- 🐧 Linux-based development environments
-- 🏗️ Architecture-focused software projects
+**Tech:** `Kotlin` `Software Architecture` `Game Development`
+
+#### [Personal Website](https://github.com/baris-batur/personal-website) · WIP
+
+Building a personal portfolio with a containerized, self-hosted deployment pipeline.
+
+**Planned stack:** `React` `TypeScript` `Docker` `Kubernetes`
 
 ---
 
-## Current Rabbit Holes
+### 🐧 Linux & Developer Experience
 
-```text
-☸️ Kubernetes
-📈 Observability
-⚙️ Platform Engineering
-🤖 AI-Assisted Development
-🏠 Self-Hosting
-🐧 Linux Tooling
-```
+#### [Personal Linux Configuration](https://github.com/baris-batur/personal-linux-config)
+
+My reproducible Arch Linux development environment, built on top of Omarchy and customized around my preferred tooling and workflow.
+
+**Tech:** `Arch Linux` `Hyprland` `Shell` `Omarchy`
 
 ---
 
@@ -108,33 +80,36 @@ Some things I've worked on:
 
 ### Platform & Infrastructure
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kuberneteste
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&r&logoColor=white
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logogoColor=black
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+### Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-end
-
-![Java](https://img.shields.io/badge/Java-E76F00?style=flat-square&logo&logoColor=white
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=thon](https://img.shields.io/badge/6AB?style=flat-square&logo=python&logoColor=white
-
-### Frontend
-
-![tps://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
-https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flato=nextdotjs&logoColor=white
-
-### AI / ML
+### AI & Data
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
 
-ect
+---
 
-🌐 Website: https://barisbatur.com
+## Connect
 
-💼 LinkedIn: https://linkedin.com/in/baris-batur
-
-📫 GitHub: https://github.com/baris-batur
+[![Website](https://img.shields.io/badge/Website-barisbatur.com-111111?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://barisbatur.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Baris_Batur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/baris-batur)
 
 ---
 
