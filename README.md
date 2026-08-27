@@ -42,9 +42,9 @@ Machine learning project developed through a collaboration between Cogito and In
 
 Full-stack candidate screening platform developed in collaboration with Trondheim Municipality.
 
-The application processes uploaded CVs, evaluates candidates against job descriptions using language models, and provides a dashboard for reviewing the results.
+The application processes uploaded CVs and uses LLM APIs to evaluate candidates against job descriptions, with a dashboard for reviewing and comparing the results.
 
-**Tech:** `React` `TypeScript` `Node.js` `PostgreSQL` `LLMs`
+**Tech:** `React` `TypeScript` `Node.js` `PostgreSQL` `LLM APIs`
 
 #### [NTNU Hackerspace Website](https://github.com/hackerspace-ntnu/website-next)
 
